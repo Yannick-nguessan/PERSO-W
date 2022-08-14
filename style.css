@@ -1,0 +1,182 @@
+
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #FEF9A7;
+
+}
+hr{
+  border: dotted Black 6px;
+  border-bottom: none;
+  margin: 20px auto ;
+  width: 50%;
+}
+p{
+  color: #40514E;
+  line-height: 2;
+}
+.intro{
+  margin-bottom: 60px;
+}
+
+.myButton {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:8px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.TT{
+  width: 40%;
+  margin:40px auto 60px ;
+}
+.middle-container{
+  margin: 80px 0 ;
+}
+.task{
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+}
+tain{
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+}
+h1{
+  font-size: 5.625em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #11999E;
+  position: relative;
+  bottom: 30px;
+  line-height: 2;
+
+}
+h2{
+  font-size: 1.7rem;
+  font-family: 'Acme', sans-serif;
+  color: #F07B3F;
+  font-weight: normal;
+}
+h3{
+color: #11999E;
+    font-family: 'Merienda One', cursive;
+}
+a{
+  color:  #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: 'Acme', sans-serif;
+}
+.yannick{
+  height: 250px;
+  width: 250px;
+  margin: 0 auto;
+  border-radius: 100%;
+
+}
+.AA{
+  color: white;
+  padding: 20px 0 ;
+  font-size: 0.75rem;
+}
+.top-container{
+
+padding-top:120px;
+}
+.topcloud{
+  height: 130px;
+  width: 130px;
+  position: relative;
+  left: 600px;
+  top: 10px;
+  bottom: 300px;
+
+
+}
+.bottomcloud{
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  left: 70px;
+  top: 155px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+.btn{
+  color: #11999E;
+}
+.PP{
+    font-family: 'Acme';
+position:relative;
+bottom: 25px;
+    color: #FAC213;
+
+}
+.HK{
+
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.a{
+  height: 250px;
+  width:250px;
+  margin-right: 100px;
+  position: relative;
+  bottom: 80px;
+}
+.b{
+  height: 250px;
+  width:250px;
+  position: relative;
+  bottom: 80px;
+}
+.c{
+  height: 250px;
+  width:250px;
+  margin-left: 100px;
+  position: relative;
+  bottom: 80px;
+}
+.sec{
+  margin-top: 110px;
+}
+.skill-row{
+  margin: 80px auto;
+  width: 50%;
+  text-align:left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bottom-container{
+  background-color: #FAC213;
+  padding: 50px 0 20px ;
+}
